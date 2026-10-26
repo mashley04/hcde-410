@@ -8,6 +8,8 @@ Files for HCDE410 - Assignment A2
 
 **Source:** https://figshare.com/projects/Wikipedia_Talk/16731 (pulled 2026-10-24)
 
+**Publisher** Ellery Wulczyn
+
 **License:( https://creativecommons.org/publicdomain/zero/1.0/) The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
@@ -108,6 +110,8 @@ Read through the instructions and labelling options for workers and determine if
 
 Question 16:
 This question did not have code and was opinions based.
+
+Limitations & Biases: One limitation this dataset has is on the age_group category the age ranges are overlapping (18-30, 30-45, etc), this can cause misrepresentation in the data analysis when looking at the distribution. Workers the age of 30 can qualify for 2 different age groups so putting them in one over the other skews the data.
 
 ```
 
