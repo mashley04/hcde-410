@@ -24,7 +24,9 @@ Open `A3_watching_the_machine_starter.ipynb` and run the cells. The only depende
 
 - `pandas`
 
-The notebook does not fetch external data — the DataFrames are populated by hand from your own runs and field notes.
+The notebook does not fetch external data — the DataFrames are populated by hand from your own runs and field notes. 
+
+The article that was used to create the prompt was from https://medium.com/cinemania/the-legacy-of-adventure-time-6c25bb5701b8. A paragraph was added to make the task more difficult for AI: "The characters Finn and Jake adventures through distant lands. As they adventured they created magic portals that helped them through their adventures. In Advetore time they eventually met advonttore the adventurer from the land of Adventure. "
 
 ## License
 

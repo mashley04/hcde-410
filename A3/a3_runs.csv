@@ -1,0 +1,120 @@
+run,prompt,model,version,timestamp,output,verified,notes
+1,"Count how many times the word Adventure appears in this text, do not count any past tenses or variants of adventure such as adventures or adventure:
+
+As far as cartoons go, you’ll be hard-pressed to find an animated show with as much variety, creativity, and mind-bending visuals as Adventure Time, which follows the adventures of a young boy named Finn and his best friend Jake the Dog across the Land of Ooo.
+
+The Emmy award-winning series was created by Pendleton Ward — whose credits include the web series Bravest Warriors and the recent Netflix show The Midnight Gospel — and aired from 2010 to 2018 on Cartoon Network.
+
+The series also contributed to a new golden age of animation where animated shows aimed at younger viewers began exploring more mature subject matter and thought-provoking themes that weren’t usually found in cartoons.
+
+And with the release of the Distant Lands special on HBO Max, now’s as good a time as ever to dive into the imaginative world of Adventure Time. So with that said, here are some of the reasons why the influential series connected with viewers everywhere, and why it’s definitely worth a watch.
+
+
+The characters Finn and Jake adventures through distant lands. As they adventured they created magic portals that helped them through their adventures. In Advetore time they eventually met advonttore the adventurer from the land of Adventure. 
+",Claude,Sonnet 5.5,"2026-11-03, 23:12","The word “Adventure” appears 3 times in its exact form:
+1. “Adventure Time, which follows the adventures of a young boy named Finn...” (first paragraph)
+2. “...dive into the imaginative world of Adventure Time.” (fourth paragraph)
+3. “...the adventurer from the land of Adventure.” (last paragraph)
+I left out “adventures” (twice), “adventured” and “adventurer”, since you asked to exclude variants. I also didn’t count the misspellings “Advetore” and “advonttore”, because they aren’t the word “Adventure.”",ctrl f: verified there is 3 counts of Adventure in these paragraphs,"Claude was able to catch spelling errors and disregard variation of adventure, took around 3 seconds to load. stated the paragraph in which the word adventure appeared"
+2,"Count how many times the word Adventure appears in this text, do not count any past tenses or variants of adventure such as adventures or adventure:
+
+As far as cartoons go, you’ll be hard-pressed to find an animated show with as much variety, creativity, and mind-bending visuals as Adventure Time, which follows the adventures of a young boy named Finn and his best friend Jake the Dog across the Land of Ooo.
+
+The Emmy award-winning series was created by Pendleton Ward — whose credits include the web series Bravest Warriors and the recent Netflix show The Midnight Gospel — and aired from 2010 to 2018 on Cartoon Network.
+
+The series also contributed to a new golden age of animation where animated shows aimed at younger viewers began exploring more mature subject matter and thought-provoking themes that weren’t usually found in cartoons.
+
+And with the release of the Distant Lands special on HBO Max, now’s as good a time as ever to dive into the imaginative world of Adventure Time. So with that said, here are some of the reasons why the influential series connected with viewers everywhere, and why it’s definitely worth a watch.
+
+
+The characters Finn and Jake adventures through distant lands. As they adventured they created magic portals that helped them through their adventures. In Advetore time they eventually met advonttore the adventurer from the land of Adventure. 
+",Claude,Sonnet 5.5,"2026-11-03, 5:15","The word ""Adventure"" appears **3 times** as an exact match:
+
+1. ""...as much variety, creativity, and mind-bending visuals as **Adventure** Time...""
+2. ""...dive into the imaginative world of **Adventure** Time.""
+3. ""...the adventurer from the land of **Adventure**.""
+
+I excluded these variants:
+- ""adventures"" (twice in the first and last paragraphs, plus ""their adventures"" in the last)
+- ""adventured""
+- ""adventurer""
+- The misspellings ""Advetore"" and ""advonttore""",ctrl f: verified there is 3 counts of Adventure in these paragraphs,found mispellings and disregarded variants of adventure
+3,"Count how many times the word Adventure appears in this text, do not count any past tenses or variants of adventure such as adventures or adventure:
+
+As far as cartoons go, you’ll be hard-pressed to find an animated show with as much variety, creativity, and mind-bending visuals as Adventure Time, which follows the adventures of a young boy named Finn and his best friend Jake the Dog across the Land of Ooo.
+
+The Emmy award-winning series was created by Pendleton Ward — whose credits include the web series Bravest Warriors and the recent Netflix show The Midnight Gospel — and aired from 2010 to 2018 on Cartoon Network.
+
+The series also contributed to a new golden age of animation where animated shows aimed at younger viewers began exploring more mature subject matter and thought-provoking themes that weren’t usually found in cartoons.
+
+And with the release of the Distant Lands special on HBO Max, now’s as good a time as ever to dive into the imaginative world of Adventure Time. So with that said, here are some of the reasons why the influential series connected with viewers everywhere, and why it’s definitely worth a watch.
+
+
+The characters Finn and Jake adventures through distant lands. As they adventured they created magic portals that helped them through their adventures. In Advetore time they eventually met advonttore the adventurer from the land of Adventure. 
+",Claude,Sonnet 5.5,"2026-11-03, 5:16","The word ""Adventure"" appears **3 times** as an exact match:
+
+1. ""...as Adventure Time, which follows..."" (first paragraph)
+2. ""...imaginative world of Adventure Time."" (fourth paragraph)
+3. ""...from the land of Adventure."" (last paragraph)
+
+I excluded the variants: ""adventures"" (twice), ""adventured"", and ""adventurer"", plus the misspellings ""Advetore"" and ""advonttore.""",ctrl f: verified there is 3 counts of Adventure in these paragraphs,stated the paragraph in which the word adventure appeared. found mispellings and disregarded variants of adventure
+4,"Count how many times the word Adventure appears in this text, do not count any past tenses or variants of adventure such as adventures or adventure:
+
+As far as cartoons go, you’ll be hard-pressed to find an animated show with as much variety, creativity, and mind-bending visuals as Adventure Time, which follows the adventures of a young boy named Finn and his best friend Jake the Dog across the Land of Ooo.
+
+The Emmy award-winning series was created by Pendleton Ward — whose credits include the web series Bravest Warriors and the recent Netflix show The Midnight Gospel — and aired from 2010 to 2018 on Cartoon Network.
+
+The series also contributed to a new golden age of animation where animated shows aimed at younger viewers began exploring more mature subject matter and thought-provoking themes that weren’t usually found in cartoons.
+
+And with the release of the Distant Lands special on HBO Max, now’s as good a time as ever to dive into the imaginative world of Adventure Time. So with that said, here are some of the reasons why the influential series connected with viewers everywhere, and why it’s definitely worth a watch.
+
+
+The characters Finn and Jake adventures through distant lands. As they adventured they created magic portals that helped them through their adventures. In Advetore time they eventually met advonttore the adventurer from the land of Adventure. 
+",Google Gemini,3.5 Flash-Lite,"2026-11-03, 5:26","The word ""Adventure"" appears 3 times in the text (excluding past tenses, plurals, misspellings, and other variants like adventures, adventured, Advetore, advonttore, and adventurer).
+Locations of the exact word ""Adventure"":
+1. ""...visuals as Adventure Time..."" (First paragraph)
+2. ""...world of Adventure Time."" (Fourth paragraph)
+3. ""...from the land of Adventure."" (Fifth/final paragraph)",ctrl f: verified there is 3 counts of Adventure in these paragraphs,"Took a lot longer than claude, about 16 seconds to load. stated the paragraph in which the word adventure appeared. found mispellings and disregarded variants of adventure"
+PARTICIPANT 1,"Count how many times the word Adventure appears in this text, do not count any past tenses or variants of adventure such as adventures or adventure:
+
+As far as cartoons go, you’ll be hard-pressed to find an animated show with as much variety, creativity, and mind-bending visuals as Adventure Time, which follows the adventures of a young boy named Finn and his best friend Jake the Dog across the Land of Ooo.
+
+The Emmy award-winning series was created by Pendleton Ward — whose credits include the web series Bravest Warriors and the recent Netflix show The Midnight Gospel — and aired from 2010 to 2018 on Cartoon Network.
+
+The series also contributed to a new golden age of animation where animated shows aimed at younger viewers began exploring more mature subject matter and thought-provoking themes that weren’t usually found in cartoons.
+
+And with the release of the Distant Lands special on HBO Max, now’s as good a time as ever to dive into the imaginative world of Adventure Time. So with that said, here are some of the reasons why the influential series connected with viewers everywhere, and why it’s definitely worth a watch.
+
+
+The characters Finn and Jake adventures through distant lands. As they adventured they created magic portals that helped them through their adventures. In Advetore time they eventually met advonttore the adventurer from the land of Adventure. 
+",Claude,Sonnet 5.5,"2026-11-03, 5:57","The word “Adventure” appears 3 times:
+
+“...as much variety, creativity, and mind-bending visuals as Adventure Time...” (first paragraph)
+“...dive into the imaginative world of Adventure Time.” (fifth paragraph)
+“...the adventurer from the land of Adventure.” (last paragraph)
+
+I excluded “adventures” (three times), “adventured” and “adventurer”, as well as the misspellings “Advetore” and “advonttore”.",ctrl f: verified there is 3 counts of Adventure in these paragraphs,stated the paragraph in which the word adventure appeared. found mispellings and disregarded variants of adventure
+PARTICIPANT 2,"Count how many times the word Adventure appears in this text, do not count any past tenses or variants of adventure such as adventures or adventure:
+
+As far as cartoons go, you’ll be hard-pressed to find an animated show with as much variety, creativity, and mind-bending visuals as Adventure Time, which follows the adventures of a young boy named Finn and his best friend Jake the Dog across the Land of Ooo.
+
+The Emmy award-winning series was created by Pendleton Ward — whose credits include the web series Bravest Warriors and the recent Netflix show The Midnight Gospel — and aired from 2010 to 2018 on Cartoon Network.
+
+The series also contributed to a new golden age of animation where animated shows aimed at younger viewers began exploring more mature subject matter and thought-provoking themes that weren’t usually found in cartoons.
+
+And with the release of the Distant Lands special on HBO Max, now’s as good a time as ever to dive into the imaginative world of Adventure Time. So with that said, here are some of the reasons why the influential series connected with viewers everywhere, and why it’s definitely worth a watch.
+
+
+The characters Finn and Jake adventures through distant lands. As they adventured they created magic portals that helped them through their adventures. In Advetore time they eventually met advonttore the adventurer from the land of Adventure. 
+",Copilot,free,"2026-11-03, 6:06","The exact word “Adventure” appears 3 times.
+Counted occurrences:
+    1    Adventure Time (first paragraph)
+    2    Adventure Time (fourth paragraph)
+    3    land of Adventure (last paragraph)
+Not counted:
+    •    adventures
+    •    adventured
+    •    adventure (lowercase)
+    •    Misspellings such as Advetore and advonttore
+    •    adventurer
+Total: 3 ✅",ctrl f: verified there is 3 counts of Adventure in these paragraphs,stated the paragraph in which the word adventure appeared. found mispellings and disregarded variants of adventure
